@@ -1,3 +1,7 @@
+Copy from: https://github.com/tgondar/dealerdesk
+
+==========
+
 This standard disclaimer states that the work is entirely fictional and any resemblance to real people, places, or events is coincidental.
 
 DEALERDESK
